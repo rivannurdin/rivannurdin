@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on [KMOB Flatform](https://www.youtube.com/watch?v=v-bEk-IFpRk)
 
 - 🌱 I’m currently learning **Python - Fastapi**
-
-- 👨‍💻 All of my projects are available at [rivan-codes.github.io](rivan-codes.github.io)
+-
+[//]: # 👨‍💻 All of my projects are available at [rivan-codes.github.io](rivan-codes.github.io)
 
 - 📝 I regularly write articles on [rebahanisme.medium.com](rebahanisme.medium.com)
 
