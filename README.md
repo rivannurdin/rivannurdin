@@ -5,9 +5,9 @@
 <h2> About</h2>
 <ul>
  <li>I am currently working at <b><a href="https://www.gravitasi.co.id" target="_blank" rel="noopener noreferrer">Gravitasi</a></b> and am involved in the development of the <b><a href="https://www.gravitasi.co.id/portfolio/kmob-pemda-depok" target="_blank" rel="noopener noreferrer">KMOB</a></b> product. </li>
-</ul>
 
-- 🌱 I’m currently learning **Python - Fastapi**
+<li>I’m currently learning <b>Python - Fastapi</b></li>
+<li>I’m currently learning <b>Python - Fastapi</b></li>
 <!---
 
  👨‍💻 All of my projects are available at [rivan-codes.github.io](rivan-codes.github.io)
@@ -21,3 +21,5 @@
 - 📫 How to reach me **rivannurdin001@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/rivannurdin/](linkedin.com/in/rivannurdin/)
+
+  </ul>
