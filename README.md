@@ -3,7 +3,7 @@
 <br>
 
 <h2> About</h2>
-- 🔭 I’m currently working on [Gravitasi](https://www.gravitasi.co.id)
+- I am currently working at <b>[Gravitasi](https://www.gravitasi.co.id)</b> and am involved in the development of the **[KMOB](https://www.gravitasi.co.id/portfolio/kmob-pemda-depok)** product.
 
 - 🌱 I’m currently learning **Python - Fastapi**
 <!---
