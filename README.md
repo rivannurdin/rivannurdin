@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rivan</h1>
 <h3 align="center">A passionate backend engineer from Indonesia</h3>
 <br>
-
-<h2> About</h2>
+<hr>
 <ul>
  <li>I am currently working at <b><a href="https://www.gravitasi.co.id" target="_blank">Gravitasi</a></b> and am involved in the development of the <b><a href="https://www.gravitasi.co.id/portfolio/kmob-pemda-depok" target="_blank">KMOB</a></b> Platform </li>
 
