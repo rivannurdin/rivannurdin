@@ -4,7 +4,7 @@
 
 <h2> About</h2>
 <ul>
- <li>I am currently working at <b><a href="https://www.gravitasi.co.id" target="_blank" rel="noopener noreferrer">Gravitasi</a></b> and am involved in the development of the <b><a href="https://www.gravitasi.co.id/portfolio/kmob-pemda-depok" target="_blank" rel="noopener noreferrer">KMOB</a></b> product. </li>
+ <li>I am currently working at <b><a href="https://www.gravitasi.co.id" target="_blank">Gravitasi</a></b> and am involved in the development of the <b><a href="https://www.gravitasi.co.id/portfolio/kmob-pemda-depok" target="_blank">KMOB</a></b> Platform </li>
 
 <li>I’m currently learning <b>Python - Fastapi</b></li>
 <li>I’m currently learning <b>Python - Fastapi</b></li>
