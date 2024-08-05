@@ -6,21 +6,7 @@
 <ul>
  <li>I am currently working at <b><a href="https://www.gravitasi.co.id" target="_blank">Gravitasi</a></b> and am involved in the development of the <b><a href="https://www.gravitasi.co.id/portfolio/kmob-pemda-depok" target="_blank">KMOB</a></b> Platform </li>
 
-<li>I’m currently learning <b>Python - Fastapi</b></li>
+<li>I’m currently learning <b>Python (Fastapi), Node.js (Expressjs)</b></li>
 <li>I’m currently open for an Intern or a new job opportunity, this is <b> <a href="Rivan Nurdin Resume BackEnd Engineer.pdf" target="_blank">My Resume</a></b></li>
-
-<!---
-
- 👨‍💻 All of my projects are available at [rivan-codes.github.io](rivan-codes.github.io)
-
--->
-
-- 📝 I regularly write articles on **[Medium](rivannurdin.medium.com)** and novels or poetry on **[Wattpad](https://www.wattpad.com/user/rivannurdin)**
-
-- 💬 Ask me about **PHP, Laravel, REST API, SQL**
-
-- 📫 How to reach me **rivannurdin001@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/rivannurdin/](linkedin.com/in/rivannurdin/)
-
-  </ul>
+<li>I regularly write articles on <b><a href="https://rivannurdin.medium.com" target="_blank"> Medium</a></b> and novels or poetry on <b><a href="https://www.wattpad.com/user/rivannurdin" target="_blank"> Wattpad</a></b></li>
+</ul>
