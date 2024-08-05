@@ -7,7 +7,8 @@
  <li>I am currently working at <b><a href="https://www.gravitasi.co.id" target="_blank">Gravitasi</a></b> and am involved in the development of the <b><a href="https://www.gravitasi.co.id/portfolio/kmob-pemda-depok" target="_blank">KMOB</a></b> Platform </li>
 
 <li>I’m currently learning <b>Python - Fastapi</b></li>
-<li>I’m currently learning <b>Python - Fastapi</b></li>
+<li>I’m currently open for an Intern or a new job opportunity, this is <b> <a href="Rivan Nurdin Resume BackEnd Engineer.pdf" target="_blank">My Resume</a></b></li>
+
 <!---
 
  👨‍💻 All of my projects are available at [rivan-codes.github.io](rivan-codes.github.io)
