@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rivan</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate backend engineer from Indonesia</h3>
+<br>
 
-- 🔭 I’m currently working on [KMOB Flatform](https://www.youtube.com/watch?v=v-bEk-IFpRk)
+<h2> About</h2>
+- 🔭 I’m currently working on [Gravitasi](https://www.gravitasi.co.id)
 
 - 🌱 I’m currently learning **Python - Fastapi**
 <!---
@@ -10,7 +12,7 @@
 
 -->
 
-- 📝 I regularly write articles on [rebahanisme.medium.com](rebahanisme.medium.com)
+- 📝 I regularly write articles on **[Medium](rivannurdin.medium.com)** and novels or poetry on **[Wattpad](https://www.wattpad.com/user/rivannurdin)**
 
 - 💬 Ask me about **PHP, Laravel, REST API, SQL**
 
