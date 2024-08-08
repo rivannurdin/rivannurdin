@@ -1,4 +1,4 @@
-***<p style="text-align: center;">Text with basic formatting applied</p>***
+<p style="text-align: center;">Text with basic formatting applied</p>
 
 # I'am Rivan
 ### A passionate backend engineer from Indonesia</h3>
